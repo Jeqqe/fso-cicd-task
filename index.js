@@ -58,7 +58,6 @@ if (!inProduction) {
   app.get('*', (req, res) => res.sendFile(INDEX_PATH))
 }
 
-
 app.listen(PORT, () => {
   console.log(`Started on port ${PORT}`)
 })
