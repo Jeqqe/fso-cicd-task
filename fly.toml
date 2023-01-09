@@ -1,6 +1,6 @@
-# fly.toml file generated for fso-cicd-task20 on 2023-01-03T17:43:29+02:00
+# fly.toml file generated for fso-cicd-task-20 on 2023-01-03T20:34:05+02:00
 
-app = "fso-cicd-task20"
+app = "fso-cicd-task-20"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
